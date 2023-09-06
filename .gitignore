@@ -2,15 +2,3 @@
 node_modules
 .env
 
-convertJson.js
-fetched_block
-/fetchedData.json
-/fetchingTronDataBackup.js
-/fetchTronData.js
-/latestBlockData.json
-/latestTransactions.json
-/recordTx.js
-/storeLatestBlock.js
-/tronScanDemo.js
-/tronWebAtlas.js
-/tronWebDemo.js
