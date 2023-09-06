@@ -2,7 +2,7 @@
 node_modules
 .env
 
-/convertJson.js
+./convertJson.js
 /fetched_block.json
 /fetchedData.json
 /fetchingTronDataBackup.js
